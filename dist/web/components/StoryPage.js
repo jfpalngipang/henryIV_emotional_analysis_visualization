@@ -50,8 +50,7 @@ var StoryPage = function (_Component) {
     _createClass(StoryPage, [{
         key: 'componentWillReceiveProps',
         value: function componentWillReceiveProps(newProps) {
-            if (newProps.scene) {
-            }
+            if (newProps.scene) {}
         }
     }, {
         key: 'render',
